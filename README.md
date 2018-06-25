@@ -1,6 +1,4 @@
-![Easynvest](https://camo.githubusercontent.com/c4ee611d69893fec43b903eb88a444530eaf8e7f/68747470733a2f2f7777772e656173796e766573742e636f6d2e62722f66617669636f6e2e69636f)
-
-# Teste de Front-end Easynvest
+# Teste de Front-end NeosaCode
 Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
 
 ### O Desafio
@@ -19,8 +17,6 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
  - Não é permitido a utilização de nenhum framework ou o uso de qualquer biblioteca (exceto para testes unitário e tasks de build), recomandado uso de ECMAScript 6+;
 
 Para ter o estado inicial da lista de usuário utilizar este recurso abaixo:
-
-> GET https://private-21e8de-rafaellucio.apiary-mock.com/users
 
 Response:
 
@@ -98,10 +94,7 @@ Lista local:
  - Testes End to End;
 
 ### O que esperamos:
- - Testes, no mínimo testes unitários;
- - Padrão de Projeto e boas práticas de Orientação a Objetos;
  - Utilizar ECMAScript 6+;
- - Criar um passo a passo de como rodar sua aplicação [(Sugestão)](https://github.com/wearehive/project-guidelines/blob/master/README.sample.md);
  - Criar uma breve descrição da solução utilizada.
 
 
